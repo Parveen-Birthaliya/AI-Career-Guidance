@@ -6,6 +6,6 @@ Our Career Recommendation System integrates both technical and personality-based
 Specifically designed to help CS students, the system provides industry-relevant career options that align with the latest trends and demands in the tech sector.
 
 ### Team Member Name
-- Parveen Kumar
-- Sanjay
+- [Parveen Kumar](https://github.com/Parveen-Birthaliya)
+-  [Sanjay](https://github.com/Sanjay-saini-29)
 - Nishchay 
