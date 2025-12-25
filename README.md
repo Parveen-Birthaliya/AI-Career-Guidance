@@ -8,4 +8,4 @@ Specifically designed to help CS students, the system provides industry-relevant
 ### Team Member Name
 - [Parveen Kumar](https://github.com/Parveen-Birthaliya)
 -  [Sanjay](https://github.com/Sanjay-saini-29)
-- Nishchay 
+- [Nishchay](https://github.com/Nishchay-0) 
